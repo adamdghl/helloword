@@ -9,5 +9,10 @@
             "email": "13580771864@163.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Cp\\Test\\": "\\"
+        }
+    }
 }
