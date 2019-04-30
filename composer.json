@@ -2,7 +2,7 @@
     "name": "adam_packagist_demo/first_demo",
     "description": "test customer packagist",
     "license": "proprietary",
-    "minimum-stability": "v1.0.1",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "adamdghl",
