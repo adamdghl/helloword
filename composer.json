@@ -1,7 +1,7 @@
 {
     "name": "adam_packagist_demo/first_demo",
     "description": "test customer packagist",
-    "license": "proprietary",
+    "license": "MIT",
     "minimum-stability": "stable",
     "authors": [
         {
