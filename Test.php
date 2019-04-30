@@ -10,6 +10,6 @@ class Test
 {
     public static function test()
     {
-        echo 1112;die;
+        echo 111222;die;
     }
 }
