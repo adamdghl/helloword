@@ -1,0 +1,12 @@
+{
+    "name": "packagist_demo/first_demo",
+    "description": "test customer packagist",
+    "license": "nihao",
+    "authors": [
+        {
+            "name": "adamdghl",
+            "email": "13580771864@163.com"
+        }
+    ],
+    "require": {}
+}
